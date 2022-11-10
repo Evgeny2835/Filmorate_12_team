@@ -5,7 +5,7 @@
 [Контрибьюторы](https://github.com/Shmakls/java-filmorate/graphs/contributors) в репозитории тимлида
 
 ### Стек технологий:
-Java SE 11, Spring Boot, H.2, JDBC, Maven, Lombok, slf4j
+Java SE 11, Spring Boot, H.2, JDBC, Maven, Lombok, JUnit, slf4j
 
 ### Функциональность
 Онлайн кинотеатр, работающий с фильмами и оценками пользователей, возвращающий наиболее популярные фильмы
